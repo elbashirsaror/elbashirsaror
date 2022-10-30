@@ -8,10 +8,9 @@
 src="https://stackoverflow-badge.vercel.app/?userID=20033482" />
 </a>
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-6aSmfWSxhvDHUlJ_s_juw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/elbashirsaror.elbashirsaror-theme?label=elbashirsaror%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=elbashirsaror.elbashirsaror-theme)
 [![Hire me](https://img.shields.io/badge/Freelancer-Hire-blueviolet?style=for-the-badge)](https://www.freelancer.com/u/Elbashir1993)
+[![Hire me](https://img.shields.io/badge/Linkedin-Hire-green?style=for-the-badge)](https://www.linkedin.com/in/elbashirsaror/)
 
----
 ## I develop high quality and scalable web applications
 
 - 🔭 Check out my website to view my latest projects: [my website!][website]!
@@ -21,9 +20,10 @@ src="https://stackoverflow-badge.vercel.app/?userID=20033482" />
 - ⚡ Do not hesitate to contact me, if you encounter a problem with your code
 - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 
----
+
 
 ### The main problems that I can help you solve:
+
 - #### Deploying websites to AWS   
    I will create you a repository, cluster, ES2 instance, service and task definition. I can also help you add/edit other servics like VPNS, ROUTE 53, S3...etc, 
 - #### Build Docker Image
@@ -43,30 +43,19 @@ src="https://stackoverflow-badge.vercel.app/?userID=20033482" />
 - #### Other Problems
    check my skills section, and be sure I am expert in all of them, so if you face a problem that in the scope of my skills, I can help you with that too!
 
----
+
 
 ### My Gigs in [Fiverr](https://www.fiverr.com/elbashirelamin)
-
 [<img align="left" alt="chat" width="250px" src="./img/gigs/chat.jpg" style="padding-right:10px;" />](https://www.fiverr.com/s2/e875e8d7ce)
 &nbsp;&nbsp;
 [<img align="left" alt="CI/CD" width="250px" src="./img/gigs/ci.jpg" style="padding-right:10px;" />](https://www.fiverr.com/share/WD3qEQ)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg) JUnit Testing](https://youtube.com/elbashirsaror#gh-light-mode-only)
-[<img align="left" alt="spring boot" width="26px" src="./img/sb_logo.svg" style="padding-right:10px;" /> Debuging Spring boot](https://youtube.com/elbashirsaror#gh-dark-mode-only)
+[<img align="left" alt="build website" width="250px" src="./img/gigs/website.jpg" style="padding-right:10px;" />](https://www.fiverr.com/share/jV2mdv)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)] Debuging React.js(https://twitter.com/elbashirsaror#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)] Set up a Database in AWS(https://twitter.com/elbashirsaror#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)] Spring security with JWT token(https://linkedin.com/in/elbashirsaror#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)] Service discovery (eureka)(https://linkedin.com/in/elbashirsaror#gh-dark-mode-only)
-[![website](./img/linkedin-dark.svg)] Upload/Download files S3 bucket  (eureka)(https://linkedin.com/in/elbashirsaror#gh-dark-mode-only)
-[![website](./img/aws_logo.svg)] Upload/Download files S3 bucket  (eureka)(https://linkedin.com/in/elbashirsaror#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/elbashirsaror#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/elbashirsaror#gh-dark-mode-only)
 
+
+<br /><br />
 ### Languages and Tools:
-
 [<img align="left" alt="Spring boot" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
 [<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;" />][webdevplaylist]

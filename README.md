@@ -46,14 +46,15 @@ src="https://stackoverflow-badge.vercel.app/?userID=20033482" />
 
 
 ### My Gigs in [Fiverr](https://www.fiverr.com/elbashirelamin)
-[<img align="left" alt="chat" width="250px" src="./img/gigs/chat.jpg" style="padding-right:10px;" />](https://www.fiverr.com/s2/e875e8d7ce)
+[<img  alt="chat" width="250px" height="300px" src="./img/gigs/chat.jpg" style="padding-right:10px;" />](https://www.fiverr.com/s2/e875e8d7ce)
 &nbsp;&nbsp;
-[<img align="left" alt="CI/CD" width="250px" src="./img/gigs/ci.jpg" style="padding-right:10px;" />](https://www.fiverr.com/share/WD3qEQ)
+[<img  alt="CI/CD" width="250px" height="300px" src="./img/gigs/ci.jpg" style="padding-right:10px;" />](https://www.fiverr.com/share/WD3qEQ)
 &nbsp;&nbsp;
-[<img align="left" alt="build website" width="250px" src="./img/gigs/website.jpg" style="padding-right:10px;" />](https://www.fiverr.com/share/jV2mdv)
-<br />
+[<img  alt="build website" width="250px" height="300px" src="./img/gigs/website.jpg" style="padding-right:10px;" />](https://www.fiverr.com/share/jV2mdv)
+
 
 ### Languages and Tools:
+
 [<img align="left" alt="Spring boot" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
 [<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;" />][webdevplaylist]

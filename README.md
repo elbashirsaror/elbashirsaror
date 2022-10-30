@@ -12,17 +12,32 @@ src="https://stackoverflow-badge.vercel.app/?userID=20033482" />
 [![Hire me](https://img.shields.io/badge/Freelancer-Hire-blueviolet?style=for-the-badge)](https://www.freelancer.com/u/Elbashir1993)
 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I develop high quality and scalable web applications
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 Check out my website to view my latest projects: [my website!][website]!
+- 🌱 I am a quick learner and always look for the latest technologies in my field 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 I am available to work at any time, contact me with one of the links above, or start me directly in [freelancer](https://www.freelancer.com/u/Elbashir1993)
+- ⚡ Do not hesitate to contact me, if you encounter a problem with your code
 - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 
-### Connect with me:
-
+### The main problems that I can help you solve:
+- #### Deploying websites to AWS   
+   I will create you a repository, cluster, ES2 instance, service and task definition. And all the other services that help you make your site work great.
+- #### Build Docker Image
+   I can build you a multi-stage Docker Image of your application, or help you depug issues in your docker image and make it ready for production.
+- #### GitHub workflow
+   you don't have to test/buil/deploy your application manually, I will create you a workflow to do all that as a CI/CD concept.
+- #### Website backend and MICROSERVICES
+   If you want maintainable and scalable services or applications, microservice architecture is the best choice for such applications.
+   I will build your web application as small services that run separately so that if one service breaks it won't break your website.
+- #### React.js
+   I am expert at this language, so if you encountered any problem in it, don't hesitate to contact me.
+   I will also help you make your front end reusable and easy to debug using React.js.
+- #### Ant.design
+   It's the best library to use along with your React.js application. have very attractive UI/UX and make your code simple and organized.
+- #### Other Problems
+   check my skills section, and be sure I am expert in all of them, so if you face a problem that in the scope of my skills, I can help you with that too!
 [![website](./img/globe-light.svg)](https://elbashirsaror.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://elbashirsaror.com#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -111,10 +126,10 @@ src="https://stackoverflow-badge.vercel.app/?userID=20033482" />
 
 </details>
 
-[website]: https://elbashirsaror.com
+[website]: http://www.elbashirsaror.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/elbashirsaror
-[youtube]: https://youtube.com/elbashirsaror
+[youtube]: https://www.youtube.com/channel/UC-6aSmfWSxhvDHUlJ_s_juw
 [instagram]: https://instagram.com/elbashirsaror
 [linkedin]: https://linkedin.com/in/elbashirsaror
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt

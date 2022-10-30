@@ -40,12 +40,14 @@ src="https://stackoverflow-badge.vercel.app/?userID=20033482" />
    It is the best library to use with your React.js application. It has a very attractive UI/UX and makes your code simple and organized.
 - #### Other Problems
    check my skills section, and be sure I am expert in all of them, so if you face a problem that in the scope of my skills, I can help you with that too!
-### My Gigs
-[![website](./img/globe-light.svg)] Chatting Service(http://www.elbashirsaror.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)] CI/CD for static and Dynamic appkications(https://elbashirsaror.com#gh-dark-mode-only)
+--
+### My Gigs in [Fiverr](https://www.fiverr.com/elbashirelamin)
+
+[<img align="left" alt="chat" width="26px" src="./img/ci2_logo.svg" style="padding-right:10px;" /> Chatting Service](http://www.elbashirsaror.com#gh-light-mode-only)
+[<img align="left" alt="CI/CD" width="26px" src="./img/ci_logo.svg" style="padding-right:10px;" />  CI/CD for static and Dynamic appkications](https://elbashirsaror.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)] JUnit Testing(https://youtube.com/elbashirsaror#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)] Debuging Spring boot(https://youtube.com/elbashirsaror#gh-dark-mode-only)
+[![website](./img/youtube-light.svg) JUnit Testing](https://youtube.com/elbashirsaror#gh-light-mode-only)
+[<img align="left" alt="spring boot" width="26px" src="./img/sb_logo.svg" style="padding-right:10px;" /> Debuging Spring boot](https://youtube.com/elbashirsaror#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)] Debuging React.js(https://twitter.com/elbashirsaror#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)] Set up a Database in AWS(https://twitter.com/elbashirsaror#gh-dark-mode-only)
@@ -53,30 +55,31 @@ src="https://stackoverflow-badge.vercel.app/?userID=20033482" />
 [![website](./img/linkedin-light.svg)] Spring security with JWT token(https://linkedin.com/in/elbashirsaror#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)] Service discovery (eureka)(https://linkedin.com/in/elbashirsaror#gh-dark-mode-only)
 [![website](./img/linkedin-dark.svg)] Upload/Download files S3 bucket  (eureka)(https://linkedin.com/in/elbashirsaror#gh-dark-mode-only)
+[![website](./img/aws_logo.svg)] Upload/Download files S3 bucket  (eureka)(https://linkedin.com/in/elbashirsaror#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/elbashirsaror#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/elbashirsaror#gh-dark-mode-only)
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Spring boot" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
+[<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />][cssplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
+[<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
 <br />
 <br />
 

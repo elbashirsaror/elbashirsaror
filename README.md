@@ -47,8 +47,9 @@ src="https://stackoverflow-badge.vercel.app/?userID=20033482" />
 
 ### My Gigs in [Fiverr](https://www.fiverr.com/elbashirelamin)
 
-[<img align="left" alt="chat" width="26px" src="./img/ci2_logo.svg" style="padding-right:10px;" /> Chatting Service](https://www.fiverr.com/s2/e875e8d7ce)
-[<img align="left" alt="CI/CD" width="26px" src="./img/ci_logo.svg" style="padding-right:10px;" />  CI/CD for static and Dynamic appkications](https://elbashirsaror.com#gh-dark-mode-only)
+[<img align="left" alt="chat" width="250px" src="./img/gigs/chat.jpg" style="padding-right:10px;" />](https://www.fiverr.com/s2/e875e8d7ce)
+&nbsp;&nbsp;
+[<img align="left" alt="CI/CD" width="250px" src="./img/gigs/ci.jpg" style="padding-right:10px;" />](https://www.fiverr.com/share/WD3qEQ)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg) JUnit Testing](https://youtube.com/elbashirsaror#gh-light-mode-only)
 [<img align="left" alt="spring boot" width="26px" src="./img/sb_logo.svg" style="padding-right:10px;" /> Debuging Spring boot](https://youtube.com/elbashirsaror#gh-dark-mode-only)

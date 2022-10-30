@@ -15,40 +15,44 @@ src="https://stackoverflow-badge.vercel.app/?userID=20033482" />
 ## I develop high quality and scalable web applications
 
 - 🔭 Check out my website to view my latest projects: [my website!][website]!
-- 🌱 I am a quick learner and always look for the latest technologies in my field 
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 I am available to work at any time, contact me with one of the links above, or start me directly in [freelancer](https://www.freelancer.com/u/Elbashir1993)
+- 🌱 I'm a fast learner and I'm always on the lookout for new technologies and features
+- 👯 I’m looking to collaborate with other developers
+- 🥅 I am available to work at any time, contact me with one of the links above, or hire me directly in [freelancer](https://www.freelancer.com/u/Elbashir1993)
 - ⚡ Do not hesitate to contact me, if you encounter a problem with your code
 - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 
 ### The main problems that I can help you solve:
 - #### Deploying websites to AWS   
-   I will create you a repository, cluster, ES2 instance, service and task definition. And all the other services that help you make your site work great.
+   I will create you a repository, cluster, ES2 instance, service and task definition. I can also help you add/edit other servics like VPNS, ROUTE 53, S3...etc, 
 - #### Build Docker Image
    I can build you a multi-stage Docker Image of your application, or help you depug issues in your docker image and make it ready for production.
 - #### GitHub workflow
-   you don't have to test/buil/deploy your application manually, I will create you a workflow to do all that as a CI/CD concept.
+   You don't have to test/build/deploy your app manually, I will create a workflow for you to do all of this as a CI/CD pipeline.
+- #### Create/Link Domains
+  If you have a domain, I can help you link it to your S3 static website or your EC2 instance. If you don't have a domain, I can register one for you in Godaddy or   any other site of your choice.
 - #### Website backend and MICROSERVICES
    If you want maintainable and scalable services or applications, microservice architecture is the best choice for such applications.
    I will build your web application as small services that run separately so that if one service breaks it won't break your website.
 - #### React.js
-   I am expert at this language, so if you encountered any problem in it, don't hesitate to contact me.
+   I am expert in this language, so if you encountered any problem in it, don't hesitate to contact me.
    I will also help you make your front end reusable and easy to debug using React.js.
 - #### Ant.design
-   It's the best library to use along with your React.js application. have very attractive UI/UX and make your code simple and organized.
+   It is the best library to use with your React.js application. It has a very attractive UI/UX and makes your code simple and organized.
 - #### Other Problems
    check my skills section, and be sure I am expert in all of them, so if you face a problem that in the scope of my skills, I can help you with that too!
-[![website](./img/globe-light.svg)](https://elbashirsaror.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://elbashirsaror.com#gh-dark-mode-only)
+### My Gigs
+[![website](./img/globe-light.svg)] Chatting Service(http://www.elbashirsaror.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)] CI/CD for static and Dynamic appkications(https://elbashirsaror.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/elbashirsaror#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/elbashirsaror#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)] JUnit Testing(https://youtube.com/elbashirsaror#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)] Debuging Spring boot(https://youtube.com/elbashirsaror#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/elbashirsaror#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/elbashirsaror#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)] Debuging React.js(https://twitter.com/elbashirsaror#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)] Set up a Database in AWS(https://twitter.com/elbashirsaror#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/elbashirsaror#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/elbashirsaror#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)] Spring security with JWT token(https://linkedin.com/in/elbashirsaror#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)] Service discovery (eureka)(https://linkedin.com/in/elbashirsaror#gh-dark-mode-only)
+[![website](./img/linkedin-dark.svg)] Upload/Download files S3 bucket  (eureka)(https://linkedin.com/in/elbashirsaror#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/elbashirsaror#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/elbashirsaror#gh-dark-mode-only)

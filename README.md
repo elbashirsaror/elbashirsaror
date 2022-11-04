@@ -11,7 +11,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=20033482" />
 [![Hire me](https://img.shields.io/badge/Freelancer-Hire-blueviolet?style=for-the-badge)](https://www.freelancer.com/u/Elbashir1993)
 [![Hire me](https://img.shields.io/badge/Linkedin-Hire-green?style=for-the-badge)](https://www.linkedin.com/in/elbashirsaror/)
 
-## I develop high quality and scalable web applications
+## High quality and scalable web applications developer 
 
 - 🔭 Check out my website to view my latest projects: [my website!][website]!
 - 🌱 I'm a fast learner and I'm always on the lookout for new technologies and features
